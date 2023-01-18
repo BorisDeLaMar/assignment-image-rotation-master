@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "bmpStruct.h": "c",
+        "imgStruct.h": "c",
+        "transformation.h": "c",
+        "util.h": "c"
+    }
+}

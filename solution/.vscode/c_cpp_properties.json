@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/include/",
+                "include/",
+                "/home/borisdelamar/Labs/Labs_C/assignment-image-rotation-master/solution/include/",
+                "${workspaceFolder}"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "browse": {
+                "path": ["${workspaceFolder}/include/*"]
+            }
+        }
+    ],
+    "version": 4
+}
